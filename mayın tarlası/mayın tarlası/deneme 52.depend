@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707303788 source:c:\users\halit\desktop\deneme 52\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1707303788 source:c:\users\halit\desktop\c\c projects\mayýn tarlasý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
